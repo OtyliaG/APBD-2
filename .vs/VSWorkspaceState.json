@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\zadanie_with_initial_tests",
+    "\\zadanie_with_initial_tests\\zadanie_solution",
+    "\\zadanie_with_initial_tests\\zadanie_solution\\LegacyApp",
+    "\\zadanie_with_initial_tests\\__MACOSX\\zadanie_solution",
+    "\\zadanie_with_initial_tests\\__MACOSX\\zadanie_solution\\LegacyAppTests",
+    "\\zadanie_with_initial_tests\\__MACOSX\\zadanie_solution\\LegacyAppTests\\bin",
+    "\\zadanie_with_initial_tests\\__MACOSX\\zadanie_solution\\LegacyAppTests\\bin\\Debug",
+    "\\zadanie_with_initial_tests\\__MACOSX\\zadanie_solution\\LegacyAppTests\\bin\\Debug\\net8.0"
+  ],
+  "SelectedNode": "\\zadanie_with_initial_tests\\zadanie_solution\\LegacyApp\\UserService.cs",
+  "PreviewInSolutionExplorer": false
+}
